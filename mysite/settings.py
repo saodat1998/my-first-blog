@@ -25,7 +25,7 @@ SECRET_KEY = 'g9!j#lv@ch^-w82xqm%i56b$+@^_2vh2frt*c4=@l6&1f_k1l*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<inha_django>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'inhadjango.pythonanywhere.com']
 
 
 # Application definition
