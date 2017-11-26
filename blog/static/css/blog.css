@@ -1,3 +1,6 @@
+body{
+    background-color: coral;
+}
 h1 a {
     color: #FCA205;
     font-family: 'Lobster';
@@ -8,7 +11,7 @@ body {
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: orangered;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -21,6 +24,8 @@ body {
 
 .content {
     margin-left: 40px;
+    margin-left: 40px;
+
 }
 
 h1, h2, h3, h4 {
@@ -28,7 +33,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: white;
 }
 
 .save {
@@ -48,7 +53,8 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
-}
+    background-color: orangered;
+    }
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
